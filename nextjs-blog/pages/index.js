@@ -45,6 +45,10 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+          <a href="./helloworld.js" className="card">
+            <h3>Entra a la nueva pagina &rarr;</h3>
+            <p>Entrar a la pagina del archivo helloworld.js</p>
+          </a>
         </div>
       </main>
 

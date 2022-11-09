@@ -15,7 +15,7 @@ export default function HelloWorld(){
           </h1>
   
           <p className="description">
-            Get started by editing <code>pages/index.js</code>
+            Esta pagina corresponde a la pagina ubicada en la ruta <code>pages/helloworld.js</code>
           </p>
   
           <div className="grid">
