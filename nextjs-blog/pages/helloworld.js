@@ -11,7 +11,7 @@ export default function HelloWorld(){
   
         <main>
           <h1 className="title">
-            Learning <a href="https://nextjs.org">Next.js!</a>
+            Enrutamiento automatico con<a href="https://nextjs.org">Next.js!</a>
           </h1>
   
           <p className="description">
