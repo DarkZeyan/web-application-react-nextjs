@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link'
 
 export default function HelloWorld(){
 
@@ -11,7 +12,8 @@ export default function HelloWorld(){
   
         <main>
           <h1 className="title">
-            Enrutamiento automatico con<a href="https://nextjs.org">Next.js!</a>
+            Enrutamiento automatico con Next.js!
+            <Link href="/">Regresar al menu principal</Link>
           </h1>
   
           <p className="description">
